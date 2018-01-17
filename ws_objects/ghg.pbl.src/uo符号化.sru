@@ -8,7 +8,7 @@ global type uo符号化 from nonvisualobject
 end type
 global uo符号化 uo符号化
 
-event constructor;//
+event constructor;//1
 end event
 
 on uo符号化.create
