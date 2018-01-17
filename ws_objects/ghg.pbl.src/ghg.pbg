@@ -3,4 +3,5 @@
  "ghg.pbl" "";
 @end;
 @begin Objects 
+ "uo_dfgd.sru" "ghg.pbl";
 @end;
