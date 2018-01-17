@@ -1,0 +1,21 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "inh311_cvoinstancevar.pbl" "";
+@end;
+@begin Objects 
+ "inh311_cvoinstancevar.sra" "inh311_cvoinstancevar.pbl";
+ "d_testpoint.srd" "inh311_cvoinstancevar.pbl";
+ "m_main.srm" "inh311_cvoinstancevar.pbl";
+ "str_inh311_normal.srs" "inh311_cvoinstancevar.pbl";
+ "n_cst_config.sru" "inh311_cvoinstancevar.pbl";
+ "nvo_autoinstantiate.sru" "inh311_cvoinstancevar.pbl";
+ "nvo_unauto.sru" "inh311_cvoinstancevar.pbl";
+ "u_cst_inh311_l1.sru" "inh311_cvoinstancevar.pbl";
+ "u_cst_inh311_l2.sru" "inh311_cvoinstancevar.pbl";
+ "u_cst_inh311_l3.sru" "inh311_cvoinstancevar.pbl";
+ "uo_getproperties.sru" "inh311_cvoinstancevar.pbl";
+ "w_inh311w01_cvoinstancevar.srw" "inh311_cvoinstancevar.pbl";
+ "w_mdi.srw" "inh311_cvoinstancevar.pbl";
+ "w_pbvsjs.srw" "inh311_cvoinstancevar.pbl";
+ "w_validation.srw" "inh311_cvoinstancevar.pbl";
+@end;

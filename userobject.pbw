@@ -1,0 +1,19 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "inh302_basetypeinstancevar.pbt";
+ 10 "inh312_basetypeinstancevar.pbt";
+ 1 "inh303_ccoevent.pbt";
+ 11 "inh313_cvoproperty.pbt";
+ 2 "inh304_ccofunction.pbt";
+ 12 "hj.pbt";
+ 3 "inh305_autouo.pbt";
+ 13 "gjhgj.pbt";
+ 4 "inh306_scoinstancevar.pbt";
+ 5 "inh307_basetypeinstancevar.pbt";
+ 6 "inh308_scoproperty.pbt";
+ 7 "inh309_scoevent.pbt";
+ 8 "inh310_scofunction.pbt";
+ 9 "inh311_cvoinstancevar.pbt";
+@end;
+DefaultTarget "gjhgj.pbt";
+DefaultRemoteTarget "gjhgj.pbt";

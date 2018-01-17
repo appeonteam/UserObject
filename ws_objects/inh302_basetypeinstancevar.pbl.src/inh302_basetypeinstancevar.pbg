@@ -1,0 +1,18 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "inh302_basetypeinstancevar.pbl" "";
+@end;
+@begin Objects 
+ "inh302_basetypeinstancevar.sra" "inh302_basetypeinstancevar.pbl";
+ "d_testpoint.srd" "inh302_basetypeinstancevar.pbl";
+ "m_main.srm" "inh302_basetypeinstancevar.pbl";
+ "n_cst_config.sru" "inh302_basetypeinstancevar.pbl";
+ "n_cst_inh302_l1.sru" "inh302_basetypeinstancevar.pbl";
+ "n_cst_inh302_l2.sru" "inh302_basetypeinstancevar.pbl";
+ "n_cst_inh302_l3.sru" "inh302_basetypeinstancevar.pbl";
+ "uo_getproperties.sru" "inh302_basetypeinstancevar.pbl";
+ "w_inh302w01_basetype.srw" "inh302_basetypeinstancevar.pbl";
+ "w_mdi.srw" "inh302_basetypeinstancevar.pbl";
+ "w_pbvsjs.srw" "inh302_basetypeinstancevar.pbl";
+ "w_validation.srw" "inh302_basetypeinstancevar.pbl";
+@end;

@@ -1,0 +1,6 @@
+﻿$PBExportHeader$她已经很高.srs
+global type 她已经很高 from structure
+	string		好看i
+	string		共患难
+end type
+

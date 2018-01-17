@@ -1,0 +1,18 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "inh308_scoproperty.pbl" "";
+@end;
+@begin Objects 
+ "inh308_scoproperty.sra" "inh308_scoproperty.pbl";
+ "d_testpoint.srd" "inh308_scoproperty.pbl";
+ "m_main.srm" "inh308_scoproperty.pbl";
+ "n_cst_config.sru" "inh308_scoproperty.pbl";
+ "n_inh308_l1_tr.sru" "inh308_scoproperty.pbl";
+ "n_inh308_l2_tr.sru" "inh308_scoproperty.pbl";
+ "n_inh308_l3_tr.sru" "inh308_scoproperty.pbl";
+ "uo_getproperties.sru" "inh308_scoproperty.pbl";
+ "w_inh308w01_transaction.srw" "inh308_scoproperty.pbl";
+ "w_mdi.srw" "inh308_scoproperty.pbl";
+ "w_pbvsjs.srw" "inh308_scoproperty.pbl";
+ "w_validation.srw" "inh308_scoproperty.pbl";
+@end;

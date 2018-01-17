@@ -1,0 +1,21 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "inh313_cvoproperty.pbl" "";
+@end;
+@begin Objects 
+ "inh313_cvoproperty.sra" "inh313_cvoproperty.pbl";
+ "d_testpoint.srd" "inh313_cvoproperty.pbl";
+ "m_main.srm" "inh313_cvoproperty.pbl";
+ "n_cst_config.sru" "inh313_cvoproperty.pbl";
+ "u_cst_inh313_l1.sru" "inh313_cvoproperty.pbl";
+ "u_cst_inh313_l2.sru" "inh313_cvoproperty.pbl";
+ "u_cst_inh313_l3.sru" "inh313_cvoproperty.pbl";
+ "uo_getproperties.sru" "inh313_cvoproperty.pbl";
+ "w_inh313w01_property.srw" "inh313_cvoproperty.pbl";
+ "w_mdi.srw" "inh313_cvoproperty.pbl";
+ "w_mobile_aws.srw" "inh313_cvoproperty.pbl";
+ "w_mobile_textchecker.srw" "inh313_cvoproperty.pbl";
+ "w_pbvsjs.srw" "inh313_cvoproperty.pbl";
+ "w_user_object3.srw" "inh313_cvoproperty.pbl";
+ "w_validation.srw" "inh313_cvoproperty.pbl";
+@end;

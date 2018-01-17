@@ -1,0 +1,21 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "inh306_scoinstancevar.pbl" "";
+@end;
+@begin Objects 
+ "inh306_scoinstancevar.sra" "inh306_scoinstancevar.pbl";
+ "d_testpoint.srd" "inh306_scoinstancevar.pbl";
+ "m_main.srm" "inh306_scoinstancevar.pbl";
+ "str_inh306_normal.srs" "inh306_scoinstancevar.pbl";
+ "n_cst_config.sru" "inh306_scoinstancevar.pbl";
+ "n_inh306_l1_ds.sru" "inh306_scoinstancevar.pbl";
+ "n_inh306_l2_ds.sru" "inh306_scoinstancevar.pbl";
+ "n_inh306_l3_ds.sru" "inh306_scoinstancevar.pbl";
+ "nvo_autoinstantiate.sru" "inh306_scoinstancevar.pbl";
+ "nvo_unauto.sru" "inh306_scoinstancevar.pbl";
+ "uo_getproperties.sru" "inh306_scoinstancevar.pbl";
+ "w_inh306w01_datastore.srw" "inh306_scoinstancevar.pbl";
+ "w_mdi.srw" "inh306_scoinstancevar.pbl";
+ "w_pbvsjs.srw" "inh306_scoinstancevar.pbl";
+ "w_validation.srw" "inh306_scoinstancevar.pbl";
+@end;

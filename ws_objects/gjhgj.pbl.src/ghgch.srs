@@ -1,0 +1,6 @@
+﻿$PBExportHeader$ghgch.srs
+global type ghgch from structure
+	string		gxdg
+	string		fghg
+end type
+

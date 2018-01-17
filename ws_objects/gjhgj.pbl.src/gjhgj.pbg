@@ -1,0 +1,11 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "gjhgj.pbl" "";
+@end;
+@begin Objects 
+ "gjhgj.sra" "gjhgj.pbl";
+ "njknjk.srm" "gjhgj.pbl";
+ "ghgch.srs" "gjhgj.pbl";
+ "她已经很高.srs" "gjhgj.pbl";
+ "hjkj.srw" "gjhgj.pbl";
+@end;

@@ -1,0 +1,11 @@
+﻿$PBExportHeader$sdfs.srf
+global type sdfs from function_object
+end type
+
+forward prototypes
+global function integer sdfs (integer dsfgd)
+end prototypes
+
+global function integer sdfs (integer dsfgd);return 0
+end function
+

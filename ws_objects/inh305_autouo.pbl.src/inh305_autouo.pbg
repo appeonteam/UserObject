@@ -1,0 +1,17 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "inh305_autouo.pbl" "";
+@end;
+@begin Objects 
+ "inh305_autouo.sra" "inh305_autouo.pbl";
+ "d_testpoint.srd" "inh305_autouo.pbl";
+ "m_main.srm" "inh305_autouo.pbl";
+ "n_cst_config.sru" "inh305_autouo.pbl";
+ "n_cst_inh305_l1.sru" "inh305_autouo.pbl";
+ "n_cst_inh305_l2.sru" "inh305_autouo.pbl";
+ "uo_getproperties.sru" "inh305_autouo.pbl";
+ "w_inh305w01_autouo.srw" "inh305_autouo.pbl";
+ "w_mdi.srw" "inh305_autouo.pbl";
+ "w_pbvsjs.srw" "inh305_autouo.pbl";
+ "w_validation.srw" "inh305_autouo.pbl";
+@end;

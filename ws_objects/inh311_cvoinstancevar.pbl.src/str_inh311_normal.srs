@@ -1,0 +1,6 @@
+﻿$PBExportHeader$str_inh311_normal.srs
+global type str_inh311_normal from structure
+	long		sl_long
+	string		ss_string
+end type
+

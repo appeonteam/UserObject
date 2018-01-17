@@ -1,0 +1,18 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "inh310_scofunction.pbl" "";
+@end;
+@begin Objects 
+ "inh310_scofunction.sra" "inh310_scofunction.pbl";
+ "d_testpoint.srd" "inh310_scofunction.pbl";
+ "m_main.srm" "inh310_scofunction.pbl";
+ "n_cst_config.sru" "inh310_scofunction.pbl";
+ "n_inh310_l1.sru" "inh310_scofunction.pbl";
+ "n_inh310_l2.sru" "inh310_scofunction.pbl";
+ "n_inh310_l3.sru" "inh310_scofunction.pbl";
+ "uo_getproperties.sru" "inh310_scofunction.pbl";
+ "w_inh310w01_datastore.srw" "inh310_scofunction.pbl";
+ "w_mdi.srw" "inh310_scofunction.pbl";
+ "w_pbvsjs.srw" "inh310_scofunction.pbl";
+ "w_validation.srw" "inh310_scofunction.pbl";
+@end;
