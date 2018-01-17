@@ -3,5 +3,7 @@
  "ghg.pbl" "";
 @end;
 @begin Objects 
+ "io_bxfb.sru" "ghg.pbl";
  "uo_dfgd.sru" "ghg.pbl";
+ "uo符号化.sru" "ghg.pbl";
 @end;
