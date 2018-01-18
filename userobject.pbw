@@ -9,11 +9,12 @@ Save Format v3.0(19990112)
  3 "inh305_autouo.pbt";
  13 "gjhgj.pbt";
  4 "inh306_scoinstancevar.pbt";
+ 14 "hjh.pbt";
  5 "inh307_basetypeinstancevar.pbt";
  6 "inh308_scoproperty.pbt";
  7 "inh309_scoevent.pbt";
  8 "inh310_scofunction.pbt";
  9 "inh311_cvoinstancevar.pbt";
 @end;
-DefaultTarget "gjhgj.pbt";
-DefaultRemoteTarget "gjhgj.pbt";
+DefaultTarget "hjh.pbt";
+DefaultRemoteTarget "hjh.pbt";
