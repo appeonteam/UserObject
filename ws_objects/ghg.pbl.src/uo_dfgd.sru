@@ -7,8 +7,8 @@ end type
 end forward
 
 global type uo_dfgd from userobject
-integer width = 686
-integer height = 480
+integer width = 1129
+integer height = 640
 long backcolor = 67108864
 string text = "none"
 long tabtextcolor = 33554432
